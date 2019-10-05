@@ -1,5 +1,6 @@
 
 编译：
+
     cd app/src/main/java
     javah -encoding UTF-8 -d ../jni com.lqm.ndkjnistudy.Hello       //-d:生成目录  .. ：当前文件的上层文件夹
 
